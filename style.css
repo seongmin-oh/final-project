@@ -3,10 +3,6 @@
     height: 55px;
 }
 
-.carousel-item{
-    position: relative;
-}
-
 .carousel-text{
     color: white;
     font-weight: 700;
@@ -18,12 +14,37 @@
     height: 50%;
     width: 50%;
     right: 0;
-    top: 50%;
+    top: 45%;
 }
 
 .carousel-text-box2{
     position: absolute;
     height: 50%;
     width: 50%;
-    top: 50%;
+    top: 45%;
+}
+
+.btn-danger{
+    --bs-btn-color: black;
+    --bs-btn-bg: #f8f9fa;
+    --bs-btn-border-color: #f8f9fa;
+    --bs-btn-hover-color: black;
+    --bs-btn-hover-bg: #f8f9fa;
+    --bs-btn-hover-border-color: #f8f9fa;
+    --bs-btn-focus-shadow-rgb: 225, 83, 97;
+    --bs-btn-active-color: black;
+    --bs-btn-active-bg: #f8f9fa;
+    --bs-btn-active-border-color: #f8f9fa;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #dc3545;
+    --bs-btn-disabled-border-color: #dc3545;
+}
+
+.main-text{
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: underline;
+    text-underline-offset : 20px;
+    margin-bottom: 50px;
 }
