@@ -1,0 +1,29 @@
+.nav-icon{
+    width: 160px;
+    height: 55px;
+}
+
+.carousel-item{
+    position: relative;
+}
+
+.carousel-text{
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+.carousel-text-box{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    right: 0;
+    top: 50%;
+}
+
+.carousel-text-box2{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    top: 50%;
+}
