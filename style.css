@@ -55,7 +55,6 @@ footer{
     display: flex;
 }
 
-
 .sns{
     color: white;
     font-size:x-large;
@@ -81,7 +80,6 @@ footer{
 
 .footer-second{
     display: flex;
-    width: 1170px;
     justify-content: space-between;
 }
 
